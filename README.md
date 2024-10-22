@@ -1,7 +1,7 @@
 <h1 align="center">Hola, me llamo Valeria Lopez</h1>
 <h3 align="center">Soy estudiante de ing de sistemas</h3>
 
-- 🌱 I’m currently learning **c++ y angular**
+- 🌱 I’m currently learning **kotlin, c++ y angular**
 
 - 💬 Ask me about **java, css, html, php**
 
